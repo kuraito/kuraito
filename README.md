@@ -1,72 +1,80 @@
-# 👋 Ciao, sono Giuseppe Sabia
+<h1 align="center">Ciao, sono Giuseppe Sabia 👋</h1>
 
-**Jr. Software Developer** | Appassionato di programmazione, cybersecurity e automazione
-
-📍 Torino, Piemonte, Italia  
-🎓 Laureato all’Università degli Studi di Salerno
+<p align="center">
+  🧑‍💻 Junior Software Developer | 🔐 Cybersecurity Enthusiast | 🤖 Domotica & AI Lover <br>
+  📍 Torino, Italia | 🎓 Università degli Studi di Salerno
+</p>
 
 ---
 
 ## 🚀 Chi sono
-Sviluppatore software con esperienza in data entry e passione per la tecnologia, la domotica e l’intelligenza artificiale. Motivato a imparare e a crescere nel campo della cybersecurity e dello sviluppo web.
+
+Sono un developer appassionato di tutto ciò che è **innovazione**, dalla **programmazione web** all’**intelligenza artificiale**, passando per la **cybersecurity** e la **domotica**.  
+Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
+
+> 💬 *"Non smettere mai di imparare. Ogni riga di codice è un’opportunità per migliorare."*
 
 ---
 
-## 🛠️ Competenze tecniche
+## 🛠️ Tech Stack
 
-- **Linguaggi & Tecnologie**: HTML, CSS, JavaScript, Python  
-- **Framework & Librerie**: React, Express.js  
-- **Database**: MySQL, MongoDB  
-- **Altri ambiti**: Cybersecurity, domotica, intelligenza artificiale
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,mysql,git,github,linux" />
+</p>
 
 ---
 
-## 💼 Esperienze
+## 📈 GitHub Stats
 
-### Jr. Software Developer  
-🔹 Torino, Piemonte  
-Sviluppo e manutenzione di applicazioni web, partecipazione a team multidisciplinari.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
-### Addetto immissione dati – SmartP@per  
-🔹 Ruolo di data entry, applicazione di tecniche di programmazione e sicurezza informatica :contentReference[oaicite:1]{index=1}
+---
+
+## 💼 Esperienza
+
+- 🖥️ **Junior Developer** – Progetti personali e in team, sviluppo full-stack, focus su performance e UX.
+- 🧾 **Data Entry – SmartP@per** – Precisione, automazione e sicurezza informatica nelle attività di gestione dati.
 
 ---
 
 ## 🎓 Formazione
 
-- **Laurea triennale** – Università degli Studi di Salerno  
-- (Opzionale) Certificazioni e corsi su cybersecurity, AI, sviluppo software
-  
----
-
-## 📫 Contatti
-
-- **LinkedIn**: [Giuseppe Sabia](https://it.linkedin.com/in/giuseppe-sabia-2a5888239)  
-- **Email**: *tuo.email@example.com* (modifica con la tua)
+- 🎓 **Laurea Triennale** – Università degli Studi di Salerno  
+- 📚 Corsi & Certificazioni (in corso): Cybersecurity, JavaScript Avanzato, React, AI
 
 ---
 
-## 📂 Progetti GitHub
+## 📂 Progetti in evidenza
 
-- **NomeProgetto1**: breve descrizione + link  
-- **NomeProgetto2**: breve descrizione + link  
-
-*(Aggiungi qui i tuoi repository più rilevanti con una descrizione sintetica e link)*
-
----
-
-## 📈 Seguimi su LinkedIn
-✅ Oltre 500 collegamenti nel mio network professionale :contentReference[oaicite:2]{index=2}
+| Progetto | Descrizione | Link |
+|---------|-------------|------|
+| `Domotic-Controller` | Automazione smart home con interfaccia web | 🔗 [GitHub](#) |
+| `SecureForm` | Sistema di login sicuro con crittografia | 🔗 [GitHub](#) |
+| `PyNoteAI` | Note vocali analizzate via AI in Python | 🔗 [GitHub](#) |
 
 ---
 
-## 🎯 Obiettivi
+## 📬 Contattami
 
-- Approfondire conoscenze in cybersecurity  
-- Contribuire a progetti open‑source  
-- Sviluppare applicazioni utili e scalabili
+<p align="center">
+  <a href="https://www.linkedin.com/in/giuseppe-sabia-2a5888239"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:tuo.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-Grazie per essere passato/a!  
-Sentiti libero/a di contattarmi per progetti, opportunità o semplicemente per fare quattro chiacchiere tecnologiche 😊  
+## 🔥 Obiettivi 2025
+
+- 🛡️ Certificazione in Cybersecurity (CEH o simili)  
+- 🧠 Progetto AI open-source personale  
+- 🌐 Creazione di un portfolio interattivo con React + Tailwind  
+- 🧩 Collaborare su progetti GitHub e contribuire alla community
+
+---
+
+## 🤝 Let’s Connect!
+
+Se vuoi collaborare, condividere idee o semplic
