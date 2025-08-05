@@ -56,12 +56,13 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giuseppe-sabia-2a5888239" target="_blank">
-    <img src="https://images.icon-icons.com/2530/PNG/512/linkedin_button_icon_151847.png" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:giusaff99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
