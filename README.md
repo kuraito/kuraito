@@ -30,7 +30,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
   **Full-stack development** su **progetti interni** e supporto tecnico alle **soluzioni esistenti**. Coinvolgimento in attività di **manutenzione**, **ottimizzazione del codice** e **miglioramento dell’esperienza utente**.
 
 - 🧾 **Junior Developer** – *inReception*  
-  Sviluppo di un tool per il **self check-in** alberghiero.
+  **Sviluppo** di un tool per il **self check-in** alberghiero.
 
 ---
 
