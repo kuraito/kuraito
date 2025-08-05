@@ -19,7 +19,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,postgresql,react,angular,java,c,php,python,nodejs,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,java,c,php,python,css,tailwind,bootstrap,react,angular,nodejs,mongodb,mysql,postgresql,git,github,linux" />
 </p>
 
 ---
@@ -45,10 +45,10 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 ## 🎯 Obiettivi & Nuove Skill (2025-2026)
 
-- 🛡️ Ottenere una certificazione **AWS**  
-- 🤖 Conoscere più approfonditamente l'**AI** e tutto ciò che gira attorno  
-- 🧑‍🎨 Creare **progetti full stack** utilizzando anche docker e simulando la metodologia agile  
-- 🤝 Conoscere ogni nuova novità del mondo tech
+- 🛡️ Ottenere la certificazione AWS
+- 🧠 Approfondire il mondo dell’Intelligenza Artificiale
+- 🧑‍💻 Sviluppare progetti full stack moderni, utilizzando Docker e simulando workflow Agile
+- 🌐 Rimanere aggiornato sulle novità e tendenze del panorama tech, con particolare attenzione a strumenti emergenti
   
 ---
 
