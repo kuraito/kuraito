@@ -9,18 +9,17 @@
 
 ## 🚀 Chi sono
 
-Sviluppatore software appassionato di **innovazione**, dalla **programmazione web** all’**intelligenza artificiale**, con uno sguardo curioso verso la **cybersecurity**, l’automazione e ogni nuova tecnologia.  
+Sviluppatore software appassionato di **innovazione**, dalla **programmazione web** all’**intelligenza artificiale**, con uno sguardo curioso verso la **cybersecurity** e ogni nuova tecnologia.  
 Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
-> 💬 *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
-> — Patrick McKenzie
+> "Stay curious. Stay focused."
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,python,nodejs,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,postgresql,react,angular,java,c,php,python,nodejs,mongodb,mysql,git,github,linux" />
 </p>
 
 ---
@@ -46,11 +45,11 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 ## 🎯 Obiettivi & Nuove Skill (2025-2026)
 
-- 🛡️ Ottenere una certificazione in **Cybersecurity** (CEH o simili)  
-- 🤖 Lanciare un progetto open-source basato su **AI**  
-- 🧑‍🎨 Creare un **portfolio interattivo** con React + Tailwind  
-- 🤝 Partecipare attivamente a progetti open-source e alla community GitHub
-
+- 🛡️ Ottenere una certificazione **AWS**  
+- 🤖 Conoscere più approfonditamente l'**AI** e tutto ciò che gira attorno  
+- 🧑‍🎨 Creare **progetti full stack** utilizzando anche docker e simulando la metodologia agile  
+- 🤝 Conoscere ogni nuova novità del mondo tech
+  
 ---
 
 ## 📬 Contattami
