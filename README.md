@@ -27,7 +27,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 ## 💼 Esperienze
 
 - 🖥️ **Junior Developer** – *Cassa Edile di Torino*  
-  Progetti interni in full-stack development e supporto tecnico alle soluzioni esistenti.
+  **Full-stack development** su **progetti interni** e supporto tecnico alle **soluzioni esistenti**. Coinvolgimento in attività di **manutenzione**, **ottimizzazione del codice** e **miglioramento dell’esperienza utente**.
 
 - 🧾 **Junior Developer** – *inReception*  
   Sviluppo di un tool per il **self check-in** alberghiero.
