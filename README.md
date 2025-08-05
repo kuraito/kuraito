@@ -43,9 +43,9 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 ---
 
-## 🎯 Obiettivi & Nuove Skill (2025-2026)
+## 🎯 Nuovi Obiettivi & Nuove Skill
 
-- 🛡️ Ottenere la certificazione AWS
+- ☁️ Ottenere la certificazione AWS
 - 🧠 Approfondire il mondo dell’Intelligenza Artificiale
 - 🧑‍💻 Sviluppare progetti full stack moderni, utilizzando Docker e simulando workflow Agile
 - 🌐 Rimanere aggiornato sulle novità e tendenze del panorama tech, con particolare attenzione a strumenti emergenti
