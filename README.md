@@ -19,7 +19,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,java,c,php,python,css,tailwind,bootstrap,react,angular,nodejs,mongodb,mysql,postgresql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,java,c,php,python,css,tailwind,bootstrap,react,angular,nodejs,mongodb,mysql,postgresql,git,github,linux,docker" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 ## 💼 Esperienze
 
 - 🖥️ **Junior Developer** – *Cassa Edile di Torino*  
-  **Full-stack development** su **progetti interni** e supporto tecnico alle **soluzioni esistenti**. Coinvolgimento in attività di **manutenzione**, **ottimizzazione del codice** e **miglioramento dell’esperienza utente**.
+  **Software development** su **progetti interni** e supporto tecnico alle **soluzioni esistenti**. Coinvolgimento in attività di **manutenzione**, **ottimizzazione del codice** e **miglioramento dell’esperienza utente**.
 
 - 🧾 **Junior Developer** – *inReception*  
   **Sviluppo** di un tool per il **self check-in** alberghiero.
