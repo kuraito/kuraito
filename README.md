@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, sono Giuseppe Sabia 👋</h1>
 
 <p align="center">
-  🧑‍💻 Junior Software Developer & Tech Enthusiast <br>
+  🧑‍💻 Software Developer & Tech Enthusiast <br>
   📍 Torino, Italia | 🎓 Università degli Studi di Salerno
 </p>
 
@@ -45,7 +45,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 ## 🎯 Nuovi Obiettivi & Nuove Skill
 
-- ☁️ Ottenere la certificazione AWS
+- ☁️ Ottenere la certificazione AWS SAA
 - 🧠 Approfondire il mondo dell’Intelligenza Artificiale
 - 🧑‍💻 Sviluppare progetti full stack moderni, utilizzando Docker e simulando workflow Agile
 - 🌐 Rimanere aggiornato sulle novità e tendenze del panorama tech, con particolare attenzione a strumenti emergenti
