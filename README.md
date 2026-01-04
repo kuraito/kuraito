@@ -9,7 +9,7 @@
 
 ## 🚀 Chi sono
 
-Sviluppatore software appassionato di **innovazione**, dalla **programmazione web** all’**intelligenza artificiale**, con uno sguardo curioso verso la **cybersecurity** e ogni nuova tecnologia.  
+Sviluppatore software appassionato di **innovazione**, dalla **programmazione web** all’**intelligenza artificiale**, con uno sguardo curioso verso le **tecnologie cloud** e la **cybersecurity** e ogni nuova tecnologia.  
 Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 
 > "Stay curious. Stay focused."
