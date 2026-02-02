@@ -19,7 +19,7 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,java,c,php,python,css,tailwind,bootstrap,react,angular,nodejs,mongodb,mysql,postgresql,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,java,c,php,python,css,tailwind,bootstrap,react,angular,nodejs,mongodb,mysql,postgresql,git,github,linux,docker,aws" />
 </p>
 
 ---
