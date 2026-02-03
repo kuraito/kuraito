@@ -39,6 +39,8 @@ Curioso, determinato e sempre pronto a imparare qualcosa di nuovo.
 - 🎓 **Laurea Triennale in Scienze Informatiche (L-31)**  
   *Università degli Studi di Salerno*
 
+- ☁️ **AWS Cloud Pratictioner**
+
 - 📘 **Diploma** Tecnico
 
 ---
